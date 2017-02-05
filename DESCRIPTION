@@ -1,10 +1,10 @@
 Package: helperrs
 Type: Package
-Title: Tom's R helper functions
+Title: helperrs
 Version: 0.1.0
 Author: Thomas McMahon
 Maintainer: Thomas McMahon <thmcmahon@gmail.com>
-Description: Just random functions that are useful so I put them in a package so I can reuse them.
+Description: Tom's R helper functions. Probably stolen from stack overflow.
 License: CC0
 Encoding: UTF-8
 LazyData: true
